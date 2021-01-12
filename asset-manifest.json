@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wbs_react_routerdynamic/static/css/main.925daf99.chunk.css",
+    "main.js": "/wbs_react_routerdynamic/static/js/main.e6684d0d.chunk.js",
+    "main.js.map": "/wbs_react_routerdynamic/static/js/main.e6684d0d.chunk.js.map",
+    "runtime~main.js": "/wbs_react_routerdynamic/static/js/runtime~main.b9812ba6.js",
+    "runtime~main.js.map": "/wbs_react_routerdynamic/static/js/runtime~main.b9812ba6.js.map",
+    "static/js/2.5be048ae.chunk.js": "/wbs_react_routerdynamic/static/js/2.5be048ae.chunk.js",
+    "static/js/2.5be048ae.chunk.js.map": "/wbs_react_routerdynamic/static/js/2.5be048ae.chunk.js.map",
+    "index.html": "/wbs_react_routerdynamic/index.html",
+    "precache-manifest.e46a5d672de62e2eab194158b3f542b5.js": "/wbs_react_routerdynamic/precache-manifest.e46a5d672de62e2eab194158b3f542b5.js",
+    "service-worker.js": "/wbs_react_routerdynamic/service-worker.js",
+    "static/css/main.925daf99.chunk.css.map": "/wbs_react_routerdynamic/static/css/main.925daf99.chunk.css.map"
+  }
+}
