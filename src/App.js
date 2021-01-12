@@ -62,7 +62,15 @@ export default function App() {
               <Student />
             </Route>
 
+            <Route path="/students">
+              <Student />
+            </Route>
+
             <Route path="/results/:studentName">
+              <Results />
+            </Route>
+
+            <Route path="/results">
               <Results />
             </Route>
           </Switch>

@@ -5,5 +5,7 @@ import "./index.css";
 export default function Results() {
   const { studentName } = useParams();
 
-  return <>{`No results for ${studentName}`}</>;
+  return (
+    <>{studentName ? `No results for ${studentName}` : "No user selected"}</>
+  );
 }

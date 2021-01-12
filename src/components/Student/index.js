@@ -6,5 +6,5 @@ import "./index.css";
 export default function Student() {
   const { studentId } = useParams();
 
-  return <>{`Hello ${studentId}`}</>;
+  return <>{studentId ? `Hello ${studentId}` : "No user selected"}</>;
 }
